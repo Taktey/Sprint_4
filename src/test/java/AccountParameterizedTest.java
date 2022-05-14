@@ -27,6 +27,7 @@ public class AccountParameterizedTest {
                 {"Paul Kozlovskiy ", false},
                 {"PaulKozlovskiy ", false},
                 {" PaulKozlovskiy", false},
+                {"", false},
         };
     }
 
